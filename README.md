@@ -7,8 +7,8 @@ This repository documents my journey of coding DSA questions daily for the next 
 ## Daily Progress  
 <br>
 
-- Day 1 -
-- Day 2 -
+- Day 1 - Kadane's Algorithm
+- Day 2 - Trapping Rain Water
 - Day 3 -
 - Day 4 -
 - Day 5 -
