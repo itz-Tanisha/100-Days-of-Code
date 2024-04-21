@@ -1,7 +1,6 @@
 
 ### Kadane's Algorithm
 **Description:** Maximum subarray Sum
-
 <br>
 
 ### Question
