@@ -1,6 +1,6 @@
 
-### Title: "Kadane's Algorithm"
-### Description: "Maximum subarray Sum"
+### Kadane's Algorithm
+**Description:** Maximum subarray Sum
 
 
 ### Question
