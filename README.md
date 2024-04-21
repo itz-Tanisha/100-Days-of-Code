@@ -4,6 +4,8 @@ This repository documents my journey of coding DSA questions daily for the next 
 
 **Language:** Java
 
+> Will update my progress on Github every 5 th day.
+
 ## Daily Progress  
 <br>
 
