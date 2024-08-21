@@ -1,26 +1,13 @@
-# 100 DAYS OF CODE CHALLENGE 
+# 📜 100 DAYS OF CODE CHALLENGE 
 
-This repository documents my journey of coding DSA questions daily for the next 100 days. 
+This repository documents my journey of coding DSA questions daily for the next 100 days. Every day, I'll be solving at least 8 questions, consisting of 2 or more medium-level challenges to push my limits and sharpen my skills. 
 
 **Language:** Java
 
-> Will update my progress on Github every 5 th day.
+ ## 📅 Challenge Timeline
 
-## Daily Progress  
-<br>
+ - **Start Date:** 22 Aug 2024
+ - **End Date:** 29 Nov 2024
 
-- Day 1 - Kadane's Algorithm
-- Day 2 - Trapping Rain Water
-- Day 3 -
-- Day 4 -
-- Day 5 -
-
-  <br>
-
-- Day 6 -
-- Day 7 -
-- Day 8 -
-- Day 9 -
-- Day 10 -
-
-
+ <br>
+Here’s to 100 days of coding, learning, and leveling up! 
